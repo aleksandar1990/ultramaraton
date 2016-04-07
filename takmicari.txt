@@ -1,0 +1,126 @@
+     1. Darko Arsenijevic, (2) 250.rbr za PVD/Vojska Srbije, Niš, SRB  ListView1
+
+     2. Nikola Perac (6) TpZT, Beograd, SRB  ListView2
+
+     3. Dragan Ciric (8), ARK Tron – Palic, Novi Sad, SRB ListView3
+
+     4. Drago Kneževic (14),  Beograd, SRB ListView4
+
+     5. Miroslav Randelovic (15), Beograd, SRB ListView5
+
+     6. Goran Vendlener (16), N0vi Sad, SRB ListView6
+
+     7. Aleksa Pitulic (26), ARK Ekomaraton, Beograd, SRB ListView7
+
+     8. Dalibor Danicic (35), Arandelovac, SRB ListView8
+
+     9. Drago Boroja (36) Klub 100 maratona, Novi Sad, SRB ListView9
+
+    10. Dejan Danicic (37), Arandelovac, SRB ListView10
+
+    11. Dragan Pavlovic (38), Beograd, SRBListView11
+
+    12. Milan Stupar (45), AK Sloboda, Novi Grad, BiH ListView12
+
+    13. Milan Piljak (46), ARK Ekomaraton, Beograd, SRB ListView13
+
+    14. Jan Dolejs (49),  TJ Sokol Unhost, Prag, CZE ListView14
+
+    15. Sashko Petkovski Hellas (52), AK maraton klub DELTA, Skoplje, MKD ListView20
+
+    16. Branislav Cvetkovic (58), ARK Ekomaraton, Beograd, SRB ListView21
+
+    17. Damir Plecaš (91), Rijeka, CRO ListView22
+
+    18. Aleksandar Nedeljkovic (92), ARK Ekomaraton, Beograd, SRB ListView23
+
+    19. Kire Nauncevski Pekmez (96), AK maraton klub DELTA, Skoplje, MKD ListView15
+   
+     
+     
+    
+   
+     1. Zdravka Kneževic (3) AK Veteran, Beograd, SRB ListView16
+
+     2. Vera Velimirovic (4), AK VETERAN, Beograd, SRB ListView24
+
+     3. Milena Petrovic (9), AK VETERAN, Beograd, SRB ListView17
+ 
+     4. Aida Nikolovski (17), Domžale, SLO ListView18
+
+     5. Nataša Ivanova (19), Moskva, RSA ListView19
+
+     6. Bernadeta Naležnjak*, (25), Tychy,  40-latek, POL ListView25
+
+
+
+
+     1. Zoran Dimov* (11), AK Izgrev, Veles, MKD  32 ListView26
+
+     2. Jovica Stojanovski  Tajfun (69), Maraton klub DELTA, Skoplje, MKD  33 ListView27
+
+     3. Ivan Ristov* (77), AK Kocani, Kocani, MKD 34 ListView28
+
+     4. Nebojša Stepanovic* (8), Leskovac, SRB 35 ListView29
+
+
+     6. Klemen Boštar* (80), Kranj, SLO 36 ListView30
+
+     7. Nenad Ivanovic* (22), Berane, MNE 37 ListView31
+
+     8. Slavko Praštalo* (93), ARK Ekomaraton, Beograd, SRB 38 ListView32
+
+     9. Franjo Pap* (76), Apatin, SRB 39 ListView33
+
+    10. Boban Djordjevic* (20), Niš, SRB 40 ListView34
+
+    11. Josip Trstenjak* (21), Cakovec, CRO 41 ListView35
+
+    12. Miljurko Djurkovic (23), Blace , SRB 42 ListView36
+
+    13. Marc Barenker* (24), Mechelen , BLG 43 ListView37
+
+    14. Bene Armin* (27) Szombathely, HUN 44 ListView38
+
+    15. Aleksandar Rakic* (29) ARK Ekomaraton, Bajina Bašta, SRB 45 ListView39
+
+    16. Zmago Horvat-Samurai* (31), Maribor, SLO 46 ListView40
+
+    17. Jovica Jovancev* (12), Maraton klub DELTA, Skoplje, MKD 47 ListView41
+
+    18. Trajce Mihov* (1969), AK  VELES, Veles, MKD 48 ListView42
+
+    19. Viktor VITE Toleski* (007), AK  VELES, Veles, MKD 49 ListView43
+
+    20. Matjaž Bukovec* (33), AK 3INOX, Uršna sela, SLO 50 ListView44
+
+    21. Krstic Vojislav* (44), Vršac, SRB 51 ListView45
+
+    21. Veljko Jevremovic (48), Beograd, SRB 52 ListView46
+
+
+     1.  Ilaria Rossi (83), AK Maraton, Venecia, ITA 53  ListView47
+
+     2.  Stefani Dimov* (39), AK Izgrev, Veles, MKD 54  ListView48
+
+     3.  Vida Zdovc (40), Ljubljana, SLO 55  49
+
+     4. Renata Horakova* (1), AK HUDY TEAM, Decin, CZE 56 ListView50
+
+     5. Andrea Cerar (18), Ljubljana, SLO 57  ListView51
+
+
+	1. Oleg Vladimirovich, (7), AK RCKA, Moskva, RSA  58 ListView52
+
+ 	2. Miro Režonja* (28), Orehova vas, SLO  59 ListView53
+	
+ 	3. Majk Lapuh* (30), Ljubljana, SLO  60 ListView54
+
+ 	4. David Pehnec* (34), Novo Mesto, SLO  61 ListView55
+
+
+    
+    
+   
+   
+  

@@ -1,0 +1,80 @@
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\kmp\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\bin\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.af-ZA.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1\WindowsApplication1\obj\x86\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\bin\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.af-ZA.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL\WindowsApplication1\obj\x86\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\bin\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.af-ZA.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\bin\Debug\af-ZA\WindowsApplication1.resources.dll
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.af-ZA.resources
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandar\Desktop\stoperica - kopija\WindowsApplication1 - FINAL - 2013 -OK\WindowsApplication1\obj\x86\Debug\af-ZA\WindowsApplication1.resources.dll
